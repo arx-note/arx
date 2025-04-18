@@ -9,5 +9,8 @@
   "[json]": {
     "editor.defaultFormatter": "biomejs.biome"
   },
-  "vitest.disableWorkspaceWarning": true
+	"vitest.disableWorkspaceWarning": true,
+	"[html]": {
+		"editor.defaultFormatter": "vscode.html-language-features"
+	}
 }
